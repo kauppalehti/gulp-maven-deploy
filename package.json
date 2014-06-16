@@ -24,7 +24,7 @@
   ],
   "licence": "MIT",
   "dependencies": {
-    "maven-deploy": "0.0.2",
+    "maven-deploy": "git://github.com/kauppalehti/maven-deploy.git",
     "through2": "*"
   },
   "devDependencies": {
